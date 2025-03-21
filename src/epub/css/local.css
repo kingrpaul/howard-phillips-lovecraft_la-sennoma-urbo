@@ -16,14 +16,6 @@
 	display: none;
 }
 
-a[epub|type~="noteref"]{
-	color: inherit;
-	font-size: inherit;
-	font-style: inherit !important;
-	text-decoration-style: dotted;
-	vertical-align: baseline;
-}
-
 dl{
 	margin: 1em 0;
 }
@@ -32,27 +24,63 @@ dd{
 	margin-left: 40px;
 }
 
-dd + dt{
-	margin-top: 1em;
-}
-
-.globe{
-	font-size: 1em;
-	width: 2em;
-}
-
-.star{
-	display: inline;
-	width: 2em;
-}
-
-article a,
-dl a{
-	color: black;
-	text-decoration-color: #555;
-	text-decoration-thickness: 1px;
-}
-
-dt a{
+dl dd p:nth-of-type(odd) strong{
 	font-weight: bold;
+}
+
+dl dd p:nth-of-type(even){
+	display: none;
+	font-size: smaller;
+	font-style: italic;
+	font-variant: small-caps;
+	text-indent: 0;
+}
+
+dl dd p:nth-of-type(even) span:first-of-type{
+	font-size: 1em;
+	margin-right: 1em;
+}
+
+figure{
+	break-inside: avoid;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figcaption{
+	font-size: smaller;
+	font-style: italic;
+	margin: 1em;
+}
+
+figure.full-page{
+	break-after: page;
+	break-before: page;
+	margin: 0;
+	max-height: 100vh;
+	text-align: center;
+}
+
+@supports(display: flex){
+	figure.full-page{
+		display: flex;
+		flex-direction: column;
+	}
+
+	figure.full-page img{
+		height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@supports(display: grid){
+	figure.full-page{
+		display: grid;
+		grid-template-rows: 1fr auto;
+		max-height: 100%;
+	}
 }

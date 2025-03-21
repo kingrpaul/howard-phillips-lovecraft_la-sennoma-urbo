@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
+	<search-key-group href="text/glossary.xhtml#abdul-alhazred">
+		<match title="Abdul Alhazred" value="Abdul Alhazred"/>
+		<match title="Abdul Alhazred" value="Abdul-Alhazredo"/>
+		<match title="Abdul Alhazred" value="Alhazred"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#abaddon">
+		<match title="Abaddon" value="Abaddon"/>
+		<match title="Abaddon" value="Abadono"/>
+		<match title="Abaddon" value="Apollyon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#afrasiab">
+		<match title="Afrasiab" value="Afrasiab"/>
+		<match title="Afrasiab" value="Afrasijabo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chaldea">
+		<match title="Chaldea" value="Chaldea"/>
+		<match title="Chaldea" value="Ĥaldeio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#damascus">
+		<match title="Damascus" value="Damascus"/>
+		<match title="Damascus" value="Damasko"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gauthier-de-metz">
+		<match title="Gauthier de Metz" value="Gauthier de Metz"/>
+		<match title="Gauthier de Metz" value="Gotjeo de Metzo"/>
+		<match title="Gauthier de Metz" value="Gauthier de Metz"/>
+		<match title="Gauthier de Metz" value="Gossuin de Metz"/>
+		<match title="Gauthier de Metz" value="Gossouin de Metz"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ib">
+		<match title="Ib" value="Ib"/>
+		<match title="Ib" value="Ibo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#irem">
+		<match title="Irem" value="Irem"/>
+		<match title="Irem" value="Iram"/>
+		<match title="Irem" value="Erum"/>
+		<match title="Irem" value="Irem"/>
+		<match title="Irem" value="City of the Pillars"/>
+		<match title="Irem" value="City of the Tentpoles"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lord-dunsany">
+		<match title="Lord Dunsany" value="Lord Dunsany"/>
+		<match title="Lord Dunsany" value="Sinjoro Dunsanio"/>
+		<match title="Lord Dunsany" value="Edward John Moreton Drax Plunkett"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#memnon">
+		<match title="Memnon" value="Memnon"/>
+		<match title="Memnon" value="Memnono"/>
+		<match title="Memnon" value="Colossi of Memnon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#memphis">
+		<match title="Memphis" value="Memphis"/>
+		<match title="Memphis" value="Menefro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#meroe">
+		<match title="Meroë" value="Meroë"/>
+		<match title="Mero" value="Meroë"/>
+		<match title="Meroe" value="Meroë"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mnar">
+		<match title="Mnar" value="Mnar"/>
+		<match title="Mnar" value="Mnaro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mount-everest">
+		<match title="Mount Everest" value="Mount Everest"/>
+		<match title="Mount Everest" value="Everest"/>
+		<match title="Mount Everest" value="Monto Everesto"/>
+		<match title="Mount Everest" value="Everesto"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#nile">
+		<match title="Nile" value="Nile"/>
+		<match title="Nile" value="Nilo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#oxus">
+		<match title="Oxus" value="Oxus"/>
+		<match title="Oxus" value="Oksuso"/>
+		<match title="Oxus" value="Amudarjo"/>
+		<match title="Oxus" value="Amu Darya"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sarnath">
+		<match title="Sarnath" value="Sarnath"/>
+		<match title="Sarnato" value="Sarnath"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#thomas-moore">
+		<match title="Thomas Moore" value="Thomas Moore"/>
+		<match title="Thomas Moore" value="Tomaso Moro"/>
+	</search-key-group>
+</search-key-map>
