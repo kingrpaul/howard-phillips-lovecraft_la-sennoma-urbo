@@ -6,24 +6,6 @@
 			<reason>dual-language document</reason>
 		</ignore>
 	</file>
-	<!-- <file path="*.xhtml">
-	<ignore>
-	<code>t-012</code>
-	<reason>specialized end-notes as glossary, whitespace before noteref</reason>
-	</ignore>
-	</file> -->
-	<!-- <file path="endnotes.xhtml">
-	<ignore>
-	<code>x-019</code>
-	<reason>specialized end-notes as glossary, unexpected id</reason>
-	</ignore>
-	</file> -->
-	<!-- <file path="*.xhtml">
-	<ignore>
-	<code>t-020</code>
-	<reason>specialized end-notes as glossary, noteref inside puntuation</reason>
-	</ignore>
-	</file> -->
 	<!-- CONTENT -->
 	<file path="content.opf">
 		<ignore>
@@ -76,10 +58,4 @@
 			<reason>cover.svg and titlepage.svg title elements don't match</reason>
 		</ignore>
 	</file>
-	<!-- <file path="titlepage.svg">
-	<ignore>
-	<code>s-003</code>
-	<reason>special case, reader</reason>
-	</ignore>
-	</file> -->
 </se-lint-ignore>
