@@ -40,7 +40,7 @@ dl dd p:nth-of-type(odd) strong{
 	font-weight: bold;
 }
 
-dl dd p:nth-of-type(even){
+dl dd p:nth-of-type(2){
 	display: none;
 	font-size: smaller;
 	font-style: italic;
